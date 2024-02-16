@@ -19,3 +19,9 @@ Dans ce contexte, GoodAir cherche à récupérer et à stocker un ensemble d'inf
 - AWS account
 - Airflow
 - Docker
+
+## data sources
+
+- Les données relatives à la qualité de l’air[1] : https://aqicn.org/json-api/doc/
+- Les données météorologiques1 : https://openweathermap.org/api
+
